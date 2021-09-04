@@ -1,0 +1,26 @@
+{
+  "name": "core",
+  "version": "0.0.0",
+  "description": "The aplos core that allows you to create, modify, import and export node graphs.",
+  "author": "Tim Severien <timseverien@gmail.com>",
+  "homepage": "https://github.com/timseverien/aplos#readme",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timseverien/aplos.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/timseverien/aplos/issues"
+  }
+}
